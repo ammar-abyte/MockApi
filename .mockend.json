@@ -1,5 +1,58 @@
-{
-  "User": {
-    "title": { "string": {} }
+[
+  {
+    "time": "0min_01.00sec",
+    "sentence": "To convert into negative sentence, we will use"
+  },
+  {
+    "time": "0min_04.00sec",
+    "sentence": " mi, mi, mu, mu"
+  },
+  {
+    "time": "0min_07.00sec",
+    "sentence": "based on the four vowel harmony of the last vowel of the verb."
+  },
+  {
+    "time": "0min_11.00sec",
+    "sentence": "The orıgınal verb wıll be used"
+  },
+  {
+    "time": "0min_15.00sec",
+    "sentence": "For example"
+  },
+  {
+    "time": "0min_17.00sec",
+    "sentence": "Başla "
+  },
+  {
+    "time": "0min_18.00sec",
+    "sentence": "Baslıyor"
+  },
+  {
+    "time": "0min_20.00sec",
+    "sentence": "Başlamıyorum"
+  },
+  {
+    "time": "0min_22.00sec",
+    "sentence": "Dinle "
+  },
+  {
+    "time": "0min_23.00sec",
+    "sentence": "Dinliyorum"
+  },
+  {
+    "time": "0min_25.00sec",
+    "sentence": "Dinlemiyorum"
+  },
+  {
+    "time": "0min_27.00sec",
+    "sentence": "Bak"
+  },
+  {
+    "time": "0min_29.00sec",
+    "sentence": "Bakıyorum"
+  },
+  {
+    "time": "0min_30.00sec",
+    "sentence": "Bakmıyorum"
   }
-}
+]
